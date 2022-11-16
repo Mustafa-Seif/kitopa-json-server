@@ -1,0 +1,244 @@
+{
+  "preschool": [
+    {
+      "id": 1,
+      "title": "learning baby walking",
+      "img": "https://img.freepik.com/premium-vector/cute-baby-boy-growth-cycle-progress-set_97632-4829.jpg?w=826"
+    },
+    {
+      "id": 2,
+      "title": "learning baby by toys",
+      "img": "https://i.ytimg.com/vi/hJ-Qur8c-YY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChUlftX-XzvkRG-VaWdHoe35phbA"
+    },
+    {
+      "id": 3,
+      "title": "learning baby",
+      "img": "https://img.freepik.com/free-photo/full-shot-smiley-woman-baby-floor_23-2149320503.jpg?w=740&t=st=1668022011~exp=1668022611~hmac=32c259d20446c65cb78654856d7763ab170e7aa37973869c010fdae3ffd4dfd9"
+    }
+  ],
+  "younger": [
+    {
+      "id": 1,
+      "title": "learning kids letters",
+      "img": "https://cdn.pixabay.com/photo/2017/03/02/16/32/font-2111748_960_720.jpg"
+    },
+    {
+      "id": 2,
+      "title": "learning kids numbers",
+      "img": "https://img.freepik.com/premium-vector/cute-little-monster-numbering-with-watercolor-illustration_102385-805.jpg?w=996"
+    },
+    {
+      "id": 3,
+      "title": "learning kids days",
+      "img": "https://img.freepik.com/free-vector/days-week_1116-185.jpg?w=740&t=st=1667700677~exp=1667701277~hmac=6772b40d422a2158d00f89d64a4d0d45c39791d4f4457c73e9ca51db52809d7a"
+    },
+    {
+      "id": 4,
+      "title": "learning kids months",
+      "img": "https://img.freepik.com/free-vector/school-calendar-with-fun-characters_23-2147685280.jpg?w=740&t=st=1667700774~exp=1667701374~hmac=7774437b5acc08f486bb7e2053293f9f465532cf337b0c4b26b30628b2ae13eb"
+    },
+    {
+      "id": 5,
+      "title": "learning kids maths",
+      "img": "https://img.freepik.com/free-vector/counting-number-0-9-math-symbols_1308-104139.jpg?t=st=1667700827~exp=1667701427~hmac=472ddeaeba7c891f8d79d1db0bb267aed897c80fbb38245eaaed1d5cc47953a8"
+    },
+    {
+      "id": 6,
+      "title": "learning kids words",
+      "img": "https://img.freepik.com/free-vector/boy-with-many-words-his-head_1308-107413.jpg?w=740&t=st=1667700982~exp=1667701582~hmac=38ed9df526fa70c49e734edbb64d7cbef5f387a58f4e85260ee7eb306f74568b"
+    },
+    {
+      "id": 7,
+      "title": "learning kids sentence",
+      "img": "https://img.freepik.com/premium-vector/children-education_29937-3077.jpg?w=826"
+    },
+    {
+      "id": 8,
+      "title": "learning kids colors",
+      "img": "https://img.freepik.com/free-vector/flat-children-back-school-concept_52683-42400.jpg?w=740&t=st=1667701320~exp=1667701920~hmac=345c22f55b66c67f77fb7d627c15d69ce3a9440f631faf68690736c7e419f0b0"
+    },
+    {
+      "id": 9,
+      "title": "learning kids thinking",
+      "img": "https://img.freepik.com/free-photo/education-study-childhood-skill-word_53876-121550.jpg?w=740&t=st=1667700946~exp=1667701546~hmac=fdcda1ad5c42024995876db75305a8d9c892f626feffb1fe3c93ee63057c248c"
+    }
+  ],
+  "older": [
+    {
+      "id": 1,
+      "title": "learning kids science",
+      "img": "https://img.freepik.com/free-vector/sticker-template-word-science_1308-5888.jpg?w=826&t=st=1667783168~exp=1667783768~hmac=ba054ab591038d49cd64a76c426bef0f6ebf76191ecdb45ff87215e909ac8479"
+    },
+    {
+      "id": 2,
+      "title": "learning kids geometric",
+      "img": "https://img.freepik.com/premium-vector/i-learn-geometric-shapes-shapes-kids-education_679557-469.jpg?w=826"
+    },
+    {
+      "id": 3,
+      "title": "learning kids algebra",
+      "img": "https://img.freepik.com/free-photo/child-calculator-finance-copy-space-education_1134-1025.jpg?w=740&t=st=1667783352~exp=1667783952~hmac=898a5512f1b96c16c823468a9e5248830c7d94bcf8e47134e967ccefb5d883aa"
+    },
+    {
+      "id": 4,
+      "title": "learning kids maps",
+      "img": "https://img.freepik.com/premium-vector/kid-girl-with-map_97632-511.jpg?w=740"
+    },
+    {
+      "id": 5,
+      "title": "learning kids history",
+      "img": "https://img.freepik.com/free-vector/ancient-egypt-infographic-travel_107791-158.jpg?w=740&t=st=1667783578~exp=1667784178~hmac=8f32dbd9ccbac480221aa615eee1e83f4f090f90ab1c8ca8ac07174e74c1be94"
+    }
+  ],
+  "likedVideos": [
+    {
+      "id": "UOiBiRt-TOw",
+      "video_url": "https://www.youtube.com/watch?v=UOiBiRt-TOw",
+      "liked": false,
+      "title": "SpongeBob Schwammkopf | Das Beste aus Staffel 2 in 50 Minuten | Nickelodeon Deutschland",
+      "description": "If you were up against Bikini Bottom's most famous fry cook, what would be your weapon of choice? Perhaps a snowball cannon."
+    },
+    {
+      "id": "hYTlu56mq3o",
+      "video_url": "https://www.youtube.com/watch?v=hYTlu56mq3o",
+      "liked": false,
+      "title": "SpongeBob Schwammkopf | Das Beste aus Staffel 2 in 50 Minuten | Nickelodeon Deutschland",
+      "description": "If you were up against Bikini Bottom's most famous fry cook, what would be your weapon of choice? Perhaps a snowball cannon."
+    },
+    {
+      "id": "_K_7yDfi5og",
+      "video_url": "https://www.youtube.com/watch?v=_K_7yDfi5og",
+      "liked": false,
+      "title": "SpongeBob Schwammkopf | Das Beste aus Staffel 2 in 50 Minuten | Nickelodeon Deutschland",
+      "description": "If you were up against Bikini Bottom's most famous fry cook, what would be your weapon of choice? Perhaps a snowball cannon."
+    },
+    {
+      "id": "9UxmO6Ep6jo",
+      "video_url": "https://www.youtube.com/watch?v=9UxmO6Ep6jo",
+      "liked": false,
+      "title": "SpongeBob Schwammkopf | Das Beste aus Staffel 2 in 50 Minuten | Nickelodeon Deutschland",
+      "description": "If you were up against Bikini Bottom's most famous fry cook, what would be your weapon of choice? Perhaps a snowball cannon."
+    }
+  ],
+  "comments": [
+    {
+      "id": "ovfh1dcwk",
+      "body": "gggggg",
+      "parentId": null,
+      "userId": "1",
+      "username": "Muhamed",
+      "createdAt": "2022-11-10T00:08:05.405Z",
+      "watchId": "UOiBiRt-TOw"
+    },
+    {
+      "id": "jeg8lwcnj",
+      "body": "cvbcb",
+      "parentId": null,
+      "userId": "1",
+      "username": "Muhamed",
+      "createdAt": "2022-11-10T04:19:16.112Z",
+      "watchId": "y8Qqd5juyLg"
+    },
+    {
+      "id": "t7jniyhnh",
+      "body": "SDSFSF",
+      "parentId": null,
+      "userId": "1",
+      "username": "Muhamed",
+      "createdAt": "2022-11-11T18:07:58.568Z",
+      "watchId": "9UxmO6Ep6jo"
+    }
+  ],
+  "questions": [
+    {
+      "question": "3 + 6 = ",
+      "correctAnswer": 9,
+      "incorrectAnswers": [
+        8,
+        10,
+        7
+      ]
+    },
+    {
+      "question": "5 + 6 = ",
+      "correctAnswer": 11,
+      "incorrectAnswers": [
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "question": "5 + 1 = ",
+      "correctAnswer": 6,
+      "incorrectAnswers": [
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "question": "3 + 7 = ",
+      "correctAnswer": 10,
+      "incorrectAnswers": [
+        9,
+        11,
+        8
+      ]
+    },
+    {
+      "question": "5 + 7 = ",
+      "correctAnswer": 12,
+      "incorrectAnswers": [
+        11,
+        13,
+        10
+      ]
+    },
+    {
+      "question": "9 + 8 = ",
+      "correctAnswer": 17,
+      "incorrectAnswers": [
+        16,
+        18,
+        15
+      ]
+    },
+    {
+      "question": "3 + 3 = ",
+      "correctAnswer": 6,
+      "incorrectAnswers": [
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "question": "8 + 5 = ",
+      "correctAnswer": 13,
+      "incorrectAnswers": [
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "question": "5 + 9 = ",
+      "correctAnswer": 14,
+      "incorrectAnswers": [
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "question": "2 + 6 = ",
+      "correctAnswer": 8,
+      "incorrectAnswers": [
+        7,
+        9,
+        6
+      ]
+    }
+  ]
+}
