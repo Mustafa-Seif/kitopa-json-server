@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"json-server -p 3005 --watch data.json"
+    "start":"node server.js"
   },
-  "author": "",
+  "author": "Mustafa",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.1"
